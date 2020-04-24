@@ -9,5 +9,5 @@ use bus::Bus;
 
 fn main() {
     let bus = Bus::new();
-    bus.debugPrint();
+    bus.debug_print();
 }
